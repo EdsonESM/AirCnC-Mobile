@@ -1,9 +1,8 @@
 {
-  "devToolsPort": 19002,
   "expoServerPort": 19000,
-  "packagerPort": 19003,
-  "packagerPid": 4666,
+  "packagerPort": 19001,
+  "packagerPid": 17564,
   "expoServerNgrokUrl": "https://2d-c7s.anonymous.aircnc-mobile.exp.direct",
   "packagerNgrokUrl": "https://packager.2d-c7s.anonymous.aircnc-mobile.exp.direct",
-  "ngrokPid": 4691
+  "ngrokPid": 16120
 }
